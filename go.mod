@@ -1,3 +1,3 @@
-module github.com/jiangjiancc/zinxcc
+module github.com/jiangjiancc/ZinxCC
 
 go 1.15
